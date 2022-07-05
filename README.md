@@ -1,4 +1,4 @@
-# Projeto Página Android
+# Projeto Cordel
 
 Projeto executado com base nas aulas do Curso em Vídeo.
 
