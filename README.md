@@ -1,16 +1,16 @@
-# Olá, eu sou a Chrystiana! 👋
+# Projeto Página Android
 
-Me formei em hotelaria, mas sempre fui uma aspirante à tecnologia. Em 2022 decidi fazer uma transição de carreira. Hoje sou uma estudante do Tech Academy na StartSe e também do Curso em Video.
+Projeto executado com base nas aulas do Curso em Vídeo.
 
-# HTML e CSS
+## Linguagens utilizadas
 
-Esse é o meu repositório no GitHub.
+Para esse projeto, foram utilizadas a linguagem de marcação HTML e estilo em CSS.
 
-Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Academy da StartSe e no CursoemVideo.
+## Link para visualizar no navegador
 
+[Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
 
-
-## Projetos
+## Veja meus outros Projetos
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
@@ -18,12 +18,12 @@ Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Ac
 
 [Android](https://chryspenalber.github.io/projeto-android/android.html)
 
-[Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
+[Hércules](https://chryspenalber.github.io/projeto-hercules/hercules_index.html)
 
-[Hércules](https://chryspenalber.github.io/projeto-hercules/Hercules.html)
+[Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
 
 
-## 🔗 Links
+## 🔗 Redes
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiana-penalber-81876433/)
 
